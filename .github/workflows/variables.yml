@@ -15,4 +15,4 @@ jobs:
     - name: Echo ACCESS_ID
       run: |
           echo "ACCESS_ID=$ACCESS_ID"
-          #echo "ACCESS_ID_1=$ACCESS_ID_1"
+          echo "hi"
